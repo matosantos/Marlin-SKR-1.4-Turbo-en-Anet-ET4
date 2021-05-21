@@ -1,10 +1,9 @@
-# Marlin for ET4/5 series 3D printers with Voron installed									 
-This project to adapt the Voron Hotend on Anet ET4 / ET5 printers for use with Marlin. Comments are welcome.																									   
+# Marlin for ET4 / 5 series 3D printers with SRK 1.4 Turbo and Voron installed
+This project is to adapt the Voron Hotend on Anet ET4 / ET5 printers for use with Marlin. Comments are welcome.																									   
 ## INSTALLATION																		   
-	DISCLAIMER: Not suitable for production use. This is an ongoing project. I am not responsible for what may happen to the motherboard or the printer. Use it only at your own risk.
-	To install it you will only need to compile it with VSC or similar, use firmware.bin to update.			 
+DISCLAIMER: Not suitable for production use. This is an ongoing project. I am not responsible for what may happen to the motherboard or the printer. Use it only at your own risk.
+To install it you will only need to compile it with VSC or similar, use firmware.bin to update.			 
 ## Acknowledgements
-
 - Special thanks to Oscar from the [Telegram Anet ET4 spanish group](https://t.me/anetet4esp) for helping me with this project.
 - I would like to thank all the collaborators and testers of the master Marlin branch because without them these projects would not be possible.			
 # Marlin 3D Printer Firmware
